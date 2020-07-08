@@ -1,0 +1,4 @@
+# DocumentDeskewer
+Co-authored the paper [Voting-Based Document Image Skew Detection (MDPI science journal)](https://www.mdpi.com/2076-3417/10/7/2236)
+To detect textual information and page layout in an image page, the latter must be properly oriented. This is the problem of the so-called **document deskew**, i.e., finding the skew angle and rotating by its opposite. This paper presents an original approach which combines various algorithms that solve the skew detection problem, with the purpose of always having at least one to compensate for the others’ shortcomings, so that any type of input document can be processed with good precision and solid confidence in the output result.
+![](https://gitlab.com/adix64/document-deskewer/-/raw/master/Deskewer.png)

@@ -1,0 +1,9 @@
+.vs/*
+x64/*
+x86/*
+SAAPI_FW/x64/*
+SAAPI_FW/Release/*
+skew_images/*
+*.png
+*.TIF
+*.tif
